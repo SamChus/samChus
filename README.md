@@ -2,7 +2,7 @@
      - 👀 I’m fascinated about Frontend Technologies
      - 🌱 I’m currently learning Blockchain Engineering.
      - 💞️ I’m looking to collaborate on any Frontend technology with particular preference for ReactJs|Nextjs.
-    - 📫 How to reach me:
+     - 📫 How to reach me:
              Email: samuelchigo55@gmail.com
              LinkedIn: https://www.linkedin.com/in/samuel-chukwuma-5a429822a/
             Portfolio :- https://samuell.vercel.app/
